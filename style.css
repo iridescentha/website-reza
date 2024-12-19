@@ -500,7 +500,7 @@ span{
     width: 68%;
 }
 .skills-column:nth-child(2) .skills-content .progress:nth-child(3) .bar span{
-    width: 100%;
+    width: 50%;
 }
 
 .contact{
